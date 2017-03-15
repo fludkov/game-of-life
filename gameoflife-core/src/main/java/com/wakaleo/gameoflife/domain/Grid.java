@@ -11,6 +11,7 @@ import static com.wakaleo.gameoflife.domain.Cell.LIVE_CELL;
  * Grid object class, containing information on a collection of cells
  */
 public class Grid {
+	int a = 1;
 
     private static final int DEFAULT_ROW_COUNT = 3;
     private static final int DEFAULT_COLUMN_COUNT = 3;
